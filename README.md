@@ -1,3 +1,5 @@
+# Senior React & Next.js Engineer | UI/UX | Performance & Scalable Apps 
+
 # Hi, I'm Danyeis Bravo 👋
 
 **Senior Front-End Engineer | React | Next.js | Angular | TypeScript | Performance & UX Expert**
