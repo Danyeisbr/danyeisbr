@@ -2,7 +2,7 @@
 
 # Hi, I'm Danyeis Bravo 👋
 
-**Senior Front-End Engineer | React | Next.js | Angular | TypeScript | Performance & UX Expert**
+**Senior Front-End Engineer | React | Next.js | TypeScript | GraphQL | Performance & UX Expert**
 
 I’m a passionate **Senior Front-End Engineer** with 7+ years of experience delivering fast, scalable, and engaging web applications. I specialize in **React**, **Next.js**, and **Angular**, helping companies across industries build high-performance digital experiences. I love transforming complex UI/UX designs into beautiful, maintainable products — always optimized for performance and SEO.
 
@@ -89,8 +89,8 @@ Custom business website
 - HTML5 / CSS3 / JavaScript
 - Tailwind CSS / Bootstrap / SASS / LESS
 - Storybook
+- GraphQL 
 - MongoDB
-- WordPress / Elementor
 - UX/UI Design
 - Performance Optimization
 - SEO Optimization
