@@ -4,7 +4,7 @@
 
 **Senior Front-End Engineer | React | Next.js | TypeScript | GraphQL | Performance & UX Expert**
 
-I’m a passionate **Senior Front-End Engineer** with 7+ years of experience delivering fast, scalable, and engaging web applications. I specialize in **React**, **Next.js**, and **Angular**, helping companies across industries build high-performance digital experiences. I love transforming complex UI/UX designs into beautiful, maintainable products — always optimized for performance and SEO.
+I’m a passionate **Senior Front-End Engineer** with 9+ years of experience delivering fast, scalable, and engaging web applications. I specialize in **React**, **Next.js**, and **Angular**, helping companies across industries build high-performance digital experiences. I love transforming complex UI/UX designs into beautiful, maintainable products — always optimized for performance and SEO.
 
 ---
 
@@ -27,13 +27,6 @@ Senior Front-End Engineer for large travel e-commerce platform
 - Enhanced performance with code splitting, lazy loading, and React Suspense.
 - Improved SEO, optimized load times, and implemented responsive design.
 - Delivered new features aligned with business needs in a fast-paced environment.
-
-### <a href="https://ambrox-dark.netlify.app/" target="_blank" rel="noopener noreferrer">Ambrox Dark Portfolio Template</a>
-**React + Next.js**  
-Premium portfolio template  
-- Developed modular, reusable components.
-- Implemented smooth animations and SEO best practices.
-- Delivered a fully responsive and high-performance template for professionals.
 
 ### <a href="https://www.puntoscolombia.com/personas/inicio" target="_blank" rel="noopener noreferrer">Puntos Colombia - Fintech Loyalty Platform</a>
 **Angular + TypeScript + Bootstrap**  
