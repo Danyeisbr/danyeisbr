@@ -1,8 +1,8 @@
-# Senior React & Next.js Engineer | UI/UX | Performance & Scalable Apps 
+# Sr. React & Next.js Engineer | UI/UX | Performance & Scalable Apps 
 
-**Senior Front-End Engineer | React | Next.js | TypeScript | GraphQL | Performance & UX Expert**
+**Sr. Front-End Engineer | React | Next.js | TypeScript | GraphQL | Performance & UX Expert**
 
-I’m a passionate **Senior Front-End Engineer** with 9+ years of experience delivering fast, scalable, and engaging web applications. I specialize in **React**, **Next.js**, and **Angular**, helping companies across industries build high-performance digital experiences. I love transforming complex UI/UX designs into beautiful, maintainable products — always optimized for performance and SEO.
+I’m a passionate **Sr. Front-End Engineer** with 9+ years of experience delivering fast, scalable, and engaging web applications. I specialize in **React**, **Next.js**, and **Angular**, helping companies across industries build high-performance digital experiences. I love transforming complex UI/UX designs into beautiful, maintainable products — always optimized for performance and SEO.
 
 ---
 
